@@ -1,8 +1,6 @@
 <h3 align="center">Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xikmatillo707&label=Profile%20views&color=0e75b6&style=flat" alt="xikmatillo707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xikmatillo707" alt="xikmatillo707" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass**
 
